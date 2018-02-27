@@ -1,0 +1,21 @@
+C:\Users\BilgeAdam\Desktop\WFAKahveOtomasyonu\WFAKahveOtomasyonu\bin\Debug\WFAKahveOtomasyonu.exe.config
+C:\Users\BilgeAdam\Desktop\WFAKahveOtomasyonu\WFAKahveOtomasyonu\bin\Debug\WFAKahveOtomasyonu.exe
+C:\Users\BilgeAdam\Desktop\WFAKahveOtomasyonu\WFAKahveOtomasyonu\bin\Debug\WFAKahveOtomasyonu.pdb
+C:\Users\BilgeAdam\Desktop\WFAKahveOtomasyonu\WFAKahveOtomasyonu\obj\Debug\WFAKahveOtomasyonu.Form1.resources
+C:\Users\BilgeAdam\Desktop\WFAKahveOtomasyonu\WFAKahveOtomasyonu\obj\Debug\WFAKahveOtomasyonu.Properties.Resources.resources
+C:\Users\BilgeAdam\Desktop\WFAKahveOtomasyonu\WFAKahveOtomasyonu\obj\Debug\WFAKahveOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\BilgeAdam\Desktop\WFAKahveOtomasyonu\WFAKahveOtomasyonu\obj\Debug\WFAKahveOtomasyonu.exe
+C:\Users\BilgeAdam\Desktop\WFAKahveOtomasyonu\WFAKahveOtomasyonu\obj\Debug\WFAKahveOtomasyonu.pdb
+C:\Users\BilgeAdam\Desktop\WFAKahveOtomasyonu\WFAKahveOtomasyonu\obj\Debug\WFAKahveOtomasyonu.csprojResolveAssemblyReference.cache
+E:\Projeler Edin\BA MUFREDAT\Diğer Etütler\10.10\WFAKahveOtomasyonu\WFAKahveOtomasyonu\bin\Debug\WFAKahveOtomasyonu.exe.config
+E:\Projeler Edin\BA MUFREDAT\Diğer Etütler\10.10\WFAKahveOtomasyonu\WFAKahveOtomasyonu\obj\Debug\WFAKahveOtomasyonu.exe
+E:\Projeler Edin\BA MUFREDAT\Diğer Etütler\10.10\WFAKahveOtomasyonu\WFAKahveOtomasyonu\obj\Debug\WFAKahveOtomasyonu.pdb
+E:\Projeler Edin\BA MUFREDAT\Diğer Etütler\10.10\WFAKahveOtomasyonu\WFAKahveOtomasyonu\bin\Debug\WFAKahveOtomasyonu.exe
+E:\Projeler Edin\BA MUFREDAT\Diğer Etütler\10.10\WFAKahveOtomasyonu\WFAKahveOtomasyonu\bin\Debug\WFAKahveOtomasyonu.pdb
+E:\Projeler Edin\BA MUFREDAT\Diğer Etütler\10.10\WFAKahveOtomasyonu\WFAKahveOtomasyonu\obj\Debug\WFAKahveOtomasyonu.csprojResolveAssemblyReference.cache
+E:\Projeler Edin\BA MUFREDAT\Diğer Etütler\10.10\WFAKahveOtomasyonu\WFAKahveOtomasyonu\obj\Debug\WFAKahveOtomasyonu.Form1.resources
+E:\Projeler Edin\BA MUFREDAT\Diğer Etütler\10.10\WFAKahveOtomasyonu\WFAKahveOtomasyonu\obj\Debug\WFAKahveOtomasyonu.Properties.Resources.resources
+E:\Projeler Edin\BA MUFREDAT\Diğer Etütler\10.10\WFAKahveOtomasyonu\WFAKahveOtomasyonu\obj\Debug\WFAKahveOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\basvuru\WFAKahveOtomasyonu\WFAKahveOtomasyonu\bin\Debug\WFAKahveOtomasyonu.exe.config
+C:\Users\user\Desktop\basvuru\WFAKahveOtomasyonu\WFAKahveOtomasyonu\obj\Debug\WFAKahveOtomasyonu.exe
+C:\Users\user\Desktop\basvuru\WFAKahveOtomasyonu\WFAKahveOtomasyonu\obj\Debug\WFAKahveOtomasyonu.pdb
